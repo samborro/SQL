@@ -14,6 +14,8 @@ Using the Source World Data, I was tasked with producing some analysis in SQL fr
 
 For each category, I provided a the input coding I used, as well as an accompanying output from the database, so you can easily see the results match what was expected.
 
+[Download Analysis Link](https://github.com/samborro/SQL/blob/main/SQL%20calcs.docx)
+
 ### Results
 
 ![Capital of Spain](https://github.com/samborro/SQL/blob/main/capital%20of%20spain.png)
