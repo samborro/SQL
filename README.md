@@ -16,3 +16,15 @@ For each category, I provided a the input coding I used, as well as an accompany
 
 ### Results
 
+![](https://github.com/samborro/SQL/blob/main/capital%20of%20spain.png)
+Capital of Spain
+
+![](https://github.com/samborro/SQL/blob/main/cities%20in%20europe.png)
+Compile a list of cities located in Europe
+
+![](https://github.com/samborro/SQL/blob/main/average%20population%20by%20country.png)
+Average Population by Country
+
+![](https://github.com/samborro/SQL/blob/main/capital%20citiesn%20population%20comparison.png)
+Capital Cities Population Comparison
+
