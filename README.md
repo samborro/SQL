@@ -15,8 +15,8 @@ Using the Source World Data, I was tasked with producing some analysis in SQL fr
 For each category, I provided a the input coding I used, as well as an accompanying output from the database, so you can easily see the results match what was expected.
 
 ### Results
-
-![](https://github.com/samborro/SQL/blob/main/capital%20of%20spain.png)
+Capital of Spain
+![Capital of Spain](https://github.com/samborro/SQL/blob/main/capital%20of%20spain.png)
 Capital of Spain
 
 ![](https://github.com/samborro/SQL/blob/main/cities%20in%20europe.png)
